@@ -19,3 +19,5 @@ You can deploy your new Vite project with a single command from your terminal us
 ```shell
 $ vercel
 ```
+
+> **Note:** this repository is the stock Vite + React + TypeScript scaffold created from vercel.com/new (Jan 2026), unmodified — it holds no project code of the repo owner. See `LICENSE` (Vite's MIT license).
